@@ -1,4 +1,4 @@
-# <p align="center"> <a href="https://example.com"> <img src="" alt="Banner Photo" width="200"> </a> </p>
+<!-- <p align="center"> <a href="https://example.com"> <img src="" alt="Banner Photo" width="200"> </a> </p> -->
 <h1 align="center">Hi 😃, I'm Malavika. A</h1>
 <h3 align="center">Finding Fun in Coding</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU">
